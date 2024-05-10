@@ -62,6 +62,11 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assests/png_assest/devicon-plain_flutter.png
+    - assests/png_assest/AppIcon.png
+    - assests/png_assest/pc.png
+    - assests/png_assest/mobile.png
+    - assests/png_assest/work_icon.png
+    - assests/png_assest/education_icon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
